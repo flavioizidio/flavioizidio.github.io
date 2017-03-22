@@ -1,10 +1,10 @@
 # Site settings
 title: I2Store
 subtitle: Hinode | fazendo sua vida melhor
-email: fabioizidio7@gmail.com
+email: 
 description: Uma loja de produtos Hinode
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "i2store.com.br" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author:
 street_address: Rua Édson Martins 1218
 city: Fortaleza
