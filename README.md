@@ -2,4 +2,4 @@
 
 ## Estamos em Construção
 
-![Em Construção](http://www.andrefelizardo.com.br/blog/wp-content/uploads/2015/11/em_construcao1.jpg)
+![Em Construção](https://static.wixstatic.com/media/0e9a4a_6e24597f9e7645a48e6f0a71c1acdd10.png)
