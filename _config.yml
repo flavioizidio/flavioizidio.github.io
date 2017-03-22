@@ -1,0 +1,36 @@
+# Site settings
+title: I2Store
+subtitle: Hinode | fazendo sua vida melhor
+email: fabioizidio7@gmail.com
+description: Uma loja de produtos Hinode
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "i2store.com.br" # the base hostname & protocol for your site
+author:
+street_address: Rua Édson Martins 1218
+city: Fortaleza
+state: CE
+zip_code: 60543-456
+country: Brasil
+phone: (85) 9 8735-9470 / 9 8733-0442
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: # https://gitlab.com/u/andrewbanchich
+googleplus_url: # https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: # https://instagram.com
+linkedin_url: # https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: # https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
